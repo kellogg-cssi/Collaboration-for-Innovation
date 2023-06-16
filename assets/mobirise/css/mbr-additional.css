@@ -2009,6 +2009,30 @@ a {
 .cid-tvfx4IUqZj .item-subtitle {
   text-align: left;
 }
+.cid-tuKyHoojob {
+  padding-top: 8rem;
+  padding-bottom: 9rem;
+  background-image: url("../../../assets/images/kellogg-brandpattern.png");
+}
+.cid-tuKyHoojob .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0;
+}
+.cid-tuKyHoojob form .mbr-section-btn {
+  text-align: center;
+  width: 100%;
+}
+.cid-tuKyHoojob form .mbr-section-btn .btn {
+  display: inline-flex;
+}
+@media (max-width: 991px) {
+  .cid-tuKyHoojob form .mbr-section-btn .btn {
+    width: 100%;
+  }
+}
+.cid-tuKyHoojob .mbr-section-title {
+  color: #ffffff;
+}
 .cid-tuKtBDXhlt {
   padding-top: 3rem;
   padding-bottom: 6rem;
@@ -2068,30 +2092,6 @@ a {
   background-color: #6592e6;
 }
 .cid-tuKtBDXhlt .social-row .soc-item:hover .mbr-iconfont {
-  color: #ffffff;
-}
-.cid-tuKyHoojob {
-  padding-top: 8rem;
-  padding-bottom: 9rem;
-  background-image: url("../../../assets/images/kellogg-brandpattern.png");
-}
-.cid-tuKyHoojob .mbr-overlay {
-  background-color: #ffffff;
-  opacity: 0;
-}
-.cid-tuKyHoojob form .mbr-section-btn {
-  text-align: center;
-  width: 100%;
-}
-.cid-tuKyHoojob form .mbr-section-btn .btn {
-  display: inline-flex;
-}
-@media (max-width: 991px) {
-  .cid-tuKyHoojob form .mbr-section-btn .btn {
-    width: 100%;
-  }
-}
-.cid-tuKyHoojob .mbr-section-title {
   color: #ffffff;
 }
 .cid-toNkR1qIZm {
